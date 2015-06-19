@@ -2,9 +2,9 @@ from distutils.core import setup
 
 setup(
     name='sqlite-cake',
-    version='1.0',
-    packages=[''],
-    url='',
+    version='0.1',
+    packages=['sqlitecake'],
+    url='https://github.com/bizoru/sqlite-cake',
     license='GPL v2.0',
     author='Steven',
     author_email='bizoru@gmail.com',
